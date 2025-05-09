@@ -1,0 +1,13 @@
+{
+  "name": "typescript-assignment",
+  "version": "1.0.0",
+  "description": "TypeScript Assignment Solutions",
+  "main": "dist/b5-assignment-1.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/b5-assignment-1.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+} 
